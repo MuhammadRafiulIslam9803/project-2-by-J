@@ -1,0 +1,123 @@
+body{
+    font-family: 'Zilla Slab', serif;
+    margin: 0;
+}
+h1{
+    color: cornflowerblue;
+    font-weight:bold;
+}
+.span{
+    color: aquamarine;
+}
+#paragraph-style{
+    color:whitesmoke;
+}
+.anchore{
+    text-decoration: none;
+    padding: 7px 15px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    background-image: linear-gradient(cornflowerblue, cadetblue);
+}
+#header-text-style{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 100px;
+    
+}
+#header-style{
+    background-image: url(images/dulana-kodithuwakku-0R-rPOSUyxw-unsplash\ \(1\).jpg);
+    background-repeat: no-repeat;
+    
+    
+    background-size: cover;
+    height: 500px; 
+}
+.center{
+    text-align: center;
+    
+}
+#amount-style{
+    display: flex;
+   
+}
+#amount-style > div {
+    padding: 10px;
+    margin: 10px;
+    margin-left: 50px;
+    border:1px solid gainsboro;
+    border-radius: 5px;
+    
+    
+
+}
+#donate-section-style{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+#defu-select{
+    background-image:linear-gradient(grey,coral);
+    background-size: cover;
+
+}
+#para{
+    font-weight: bolder;
+    color: cadetblue;
+    
+}
+.donate-div-style{
+    display: flex;   
+}
+.donation-system{
+    width: 20%;
+    background-color: antiquewhite;
+    border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px grey;
+    margin: 20px;
+    padding: 10px;
+}
+.donate-div-style > div {
+    
+    margin: 0 auto;
+}
+#donation-back-color-3{
+    background-color: aquamarine;
+}
+#donation-back-color-4{
+    background-color: burlywood;
+}
+#goals-div-two{
+    width: 70%;
+
+}
+#extra{
+    display: flex;
+    margin: 10px;
+}
+
+
+
+
+
+
+#subcribes{
+    width: 40%;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: bisque;
+}
+.button{
+    margin: 0 30px;
+    color: coral;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color:black;
+    color: white;
+  }
+
